@@ -26,6 +26,9 @@ openrc
 ```
 
 ## cntnr1
+* cntnr1 hosts the webserver.
+
+## index.php
 * index.php was placed in */var/www/localhost/htdocs/*.
 
 index.php delivers all the styling and formatting of the page.
