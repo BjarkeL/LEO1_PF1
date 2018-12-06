@@ -9,9 +9,9 @@ The script pf2Start.sh is used to start the containers. It stops the lighttpd se
 The script also enables DNAT for cntnr1 as they are set to have static ip's.
 
 ## cntnr2
-* cntnr2 has the script for random numbers given in the slides placed in /bin.
+* cntnr2 has the script for random numbers given in the slides placed in */bin*.
 
-The command for running the rng.sh script with socat was placed in pf2.start and made executable and placed in /etc/local.d/ to automatically run the command on start of the container.
+The command for running the rng.sh script with socat was placed in pf2.start and made executable and placed in */etc/local.d/* to automatically run the command on start of the container.
 * Following commands were required to make it start on boot.
 ```
 rc-update add local default
@@ -19,12 +19,12 @@ openrc
 ```
 
 ## cntnr1
-* index.php was placed in /var/www/localhost/htdocs/.
+* index.php was placed in */var/www/localhost/htdocs/*.
 
 index.php delivers all the styling and formatting of the page.
 
 ## getNumbers.php
-* getNumbers.php was placed in /var/www/localhost/htdocs/.
+* getNumbers.php was placed in */var/www/localhost/htdocs/*.
 
 getNumbers.php fetches the numbers from the server using the method given in the slides.
 It is necessary to install php-json to get the numbers from getNumbers.php to index.php.
@@ -32,7 +32,7 @@ It is necessary to install php-json to get the numbers from getNumbers.php to in
 The php code was split into a seperate file to be able to refresh the numbers from the index file with javascript.
 
 ## snow.css
-* snow.css was placed in /var/www/localhost/htdocs/.
+* snow.css was placed in */var/www/localhost/htdocs/*.
 
 snow.css was added for christmas spirit and general embellishment.
 
