@@ -1,5 +1,10 @@
 # LEO1 PF2 - Bjarke Larsen (blars16) and Jens Beltman Jørgensen (jensj16)
 
+<details><summary>Result</summary>
+  ![LEO1_PF2_1](LEO1_PF2/LEO1_PF2_1)
+  ![LEO1_PF2_2](LEO1_PF2/LEO1_PF2_2)
+</details>
+
 ## Setup of the containers
 Setup of the bridge and the containers was done following the guides given in the slides for pf2.
 The containers were created with the names cntnr1 and cntnr2.
