@@ -1,8 +1,8 @@
 # LEO1 PF2 - Bjarke Larsen (blars16) and Jens Beltman Jørgensen (jensj16)
 
 <details><summary>Result</summary>
-  ![LEO1_PF2_1](LEO1_PF2/LEO1_PF2_1)
-  ![LEO1_PF2_2](LEO1_PF2/LEO1_PF2_2)
+  ![LEO1_PF2_1](LEO1_PF2/LEO1_PF2_1.png)
+  ![LEO1_PF2_2](LEO1_PF2/LEO1_PF2_2.png)
 </details>
 
 ## Setup of the containers
