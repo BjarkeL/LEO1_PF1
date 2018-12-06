@@ -1,6 +1,6 @@
 # LEO1 PF2 - Bjarke Larsen (blars16) and Jens Beltman Jørgensen (jensj16)
 
-<details><summary><h2>Result</h2></summary>
+<details><summary>Result</summary>
   <p align="center">
     <img src="LEO1_PF2/LEO1_PF2_1.png">
     <img src="LEO1_PF2/LEO1_PF2_2.png">
