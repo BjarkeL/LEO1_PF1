@@ -1,0 +1,3 @@
+#!/bin/ash
+
+socat tcp-l:8080,fork,reuseaddr exec:/bin/rng.sh
