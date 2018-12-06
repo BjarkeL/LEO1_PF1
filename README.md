@@ -2,8 +2,8 @@
 
 <details><summary>Result</summary>
   <p align="center">
-    <img src="LEO1_PF2/LEO1_PF2_1.png">
-    <img src="LEO1_PF2/LEO1_PF2_2.png">
+    <img border-radius="50px" src="LEO1_PF2/LEO1_PF2_1.png">
+    <img border-radius="50px" src="LEO1_PF2/LEO1_PF2_2.png">
   <p>
 </details>
 
