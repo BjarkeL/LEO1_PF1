@@ -1,4 +1,4 @@
-# LEO1 PF2, Bjarke Larsen (blars16) and Jens Beltman Jørgensen (jensj16)
+# LEO1 PF2 - Bjarke Larsen (blars16) and Jens Beltman Jørgensen (jensj16)
 
 ## Setup of the containers
 Setup of the bridge and the containers was done following the guides given in the slides for pf2.
